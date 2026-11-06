@@ -1,0 +1,8 @@
+{
+  "name": "ფინანსი - Finansi",
+  "description": "პერსონალური ფინანსების, ბიუჯეტის, დანაზოგებისა და ხარჯების მართვის თანამედროვე პლატფორმა.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
